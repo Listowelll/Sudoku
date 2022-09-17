@@ -1,0 +1,1 @@
+A simple non-graphic sudoku solver that automatically solves a Sudoku grid. I embedded a main function with a 2 dimensional array to represent the sudoku grid which can be tweaked in any way you want with your own numbers to get a solution of the grid.
